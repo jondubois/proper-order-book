@@ -24,7 +24,7 @@
   "homepage": "https://github.com/jondubois/proper-order-book#readme",
   "dependencies": {
     "linked-list": "^2.1.0",
-    "proper-skip-list": "^4.0.2"
+    "proper-skip-list": "^4.1.0"
   },
   "devDependencies": {
     "mocha": "^7.1.2"
